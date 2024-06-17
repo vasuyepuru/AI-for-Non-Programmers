@@ -1,6 +1,6 @@
 
 
-# AI for Non ProgrammersCurriculum
+# AI for Non Programmers Curriculum
 
 - Start with a pre-lecture quiz.
 - Read the lecture and complete the activities, pausing and reflecting at each knowledge check.
